@@ -1,5 +1,7 @@
 ## Sales Insights Data Analysis Project
 
+C:\Users\Zeeshan\OneDrive\Documents\Pictures\Screenshots
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
