@@ -2,6 +2,12 @@
 
 ![image](https://github.com/MZHAIDAR/Sales-Insights/assets/99173615/d659b83b-7b0c-4089-88d7-bafd7e9304fc)
 
+![image](https://github.com/MZHAIDAR/Sales-Insights/assets/99173615/33f37ed8-abab-4478-bb78-182cf8a0d6a0)
+
+![image](https://github.com/MZHAIDAR/Sales-Insights/assets/99173615/a7f643cd-f6ba-4977-93b6-255f6c0b4339)
+
+
+
 
 ### Data Analysis Using SQL
 
