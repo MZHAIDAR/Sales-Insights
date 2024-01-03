@@ -1,6 +1,7 @@
 ## Sales Insights Data Analysis Project
 
-C:\Users\Zeeshan\OneDrive\Documents\Pictures\Screenshots
+![image](https://github.com/MZHAIDAR/Sales-Insights/assets/99173615/d659b83b-7b0c-4089-88d7-bafd7e9304fc)
+
 
 ### Data Analysis Using SQL
 
